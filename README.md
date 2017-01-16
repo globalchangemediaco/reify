@@ -1,7 +1,7 @@
 # reify
 An infinitely powerful task management app. Developed at the Tucson Hackathon, 2017. Backbone.js with Materialize.css served up from a PHP backend. Reify your mind! 
 
-<a href=“http://reify.globalchange.media/“ target=_”blank”>Demo</a>
+Demo: http://reify.globalchange.media/
 
 Published under the GNU Lesser General Public License v3.0. 
 
